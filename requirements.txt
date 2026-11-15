@@ -1,0 +1,2 @@
+matplotlib>=3.9
+statsmodels>=0.14.4
